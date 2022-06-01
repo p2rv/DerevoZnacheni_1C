@@ -8,6 +8,7 @@
     <key>ru</key>
     <value>Пример работы с деревом</value>
   </synonym>
+  <comment>Пример работы с дереом значений, в котором реализован трехпозиционный флажок</comment>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="5eab8dac-eeee-4555-af98-0982a99546f5"/>
   <defaultForm>ExternalDataProcessor.ПримерРаботыСДеревом.Form.Форма</defaultForm>
   <forms uuid="4e2bd1f7-ea52-496d-8734-3448c6c00b8c">
